@@ -24,7 +24,7 @@
 - Clean, efficient theme templating utilizing [Laravel Blade](https://laravel.com/docs/master/blade).
 - Lightning fast frontend development workflow powered by [Bud](https://bud.js.org/).
 - Support for SCSS.
-- Develop Wordpress Gutenberg blocks using [Advanced Custom Fields](https://www.advancedcustomfields.com/) (minimal example provided: [blade template](./resources/views/blocks/testimonial.blade.php) & [styling template](./resources/styles/blocks/testimonial.scss))
+- Develop Wordpress Gutenberg blocks using [Advanced Custom Fields](https://www.advancedcustomfields.com/) (minimal example provided: [blade template](./wp-content/themes/moveo-starter-theme/resources/views/blocks/testimonial.blade.php) & [styling template](./wp-content/themes/moveo-starter-theme/resources/styles/blocks/testimonial.scss))
 
 ## Requirements
 
