@@ -81,4 +81,4 @@ Thumbs.db
 !composer.json
 
 # track these themes
-!wp-content/themes/moveo-test/
+!wp-content/themes/moveo-starter-theme/
